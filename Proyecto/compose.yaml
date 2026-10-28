@@ -1,0 +1,21 @@
+# n8n en Docker. FastAPI y Streamlit corren localmente (ver README).
+services:
+  n8n:
+    image: docker.n8n.io/n8nio/n8n
+    container_name: n8n
+    restart: unless-stopped
+    ports:
+      - "5678:5678"
+    environment:
+      - GENERIC_TIMEZONE=America/Argentina/Buenos_Aires
+      - TZ=America/Argentina/Buenos_Aires
+      - N8N_SECURE_COOKIE=false
+    extra_hosts:
+      # Permite que n8n (contenedor) llegue a FastAPI (host) en Linux
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - n8n_data:/home/node/.n8n
+      - ./n8n/workflows:/workflows
+
+volumes:
+  n8n_data:
