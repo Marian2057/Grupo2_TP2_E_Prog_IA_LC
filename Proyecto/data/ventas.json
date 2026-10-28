@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "producto": "Remera Lisa",
+        "categoria": "Indumentaria",
+        "precio": 120.0,
+        "cantidad": 120,
+        "total_venta": 14400.0
+    },
+    {
+        "id": 2,
+        "producto": "Buzo Canguro",
+        "categoria": "Indumentaria",
+        "precio": 15000.0,
+        "cantidad": 3,
+        "total_venta": 45000.0
+    },
+    {
+        "id": 3,
+        "producto": "Gorra",
+        "categoria": "Accesorios",
+        "precio": 4500.0,
+        "cantidad": 8,
+        "total_venta": 36000.0
+    },
+    {
+        "id": 4,
+        "producto": "Mochila",
+        "categoria": "Accesorios",
+        "precio": 22000.0,
+        "cantidad": 2,
+        "total_venta": 44000.0
+    },
+    {
+        "id": 5,
+        "producto": "Termo",
+        "categoria": "Hogar",
+        "precio": 18000.0,
+        "cantidad": 4,
+        "total_venta": 72000.0
+    },
+    {
+        "id": 6,
+        "producto": "Taza",
+        "categoria": "Hogar",
+        "precio": 3500.0,
+        "cantidad": 10,
+        "total_venta": 35000.0
+    },
+    {
+        "id": 7,
+        "producto": "Remera Estampada",
+        "categoria": "Indumentaria",
+        "precio": 8500.0,
+        "cantidad": 6,
+        "total_venta": 51000.0
+    },
+    {
+        "id": 8,
+        "producto": "Gorra",
+        "categoria": "Accesorios",
+        "precio": 4500.0,
+        "cantidad": 5,
+        "total_venta": 22500.0
+    },
+    {
+        "id": 9,
+        "producto": "Buzo Canguro",
+        "categoria": "Indumentaria",
+        "precio": 15000.0,
+        "cantidad": 2,
+        "total_venta": 30000.0
+    },
+    {
+        "id": 10,
+        "producto": "Termo",
+        "categoria": "Hogar",
+        "precio": 18000.0,
+        "cantidad": 1,
+        "total_venta": 18000.0
+    },
+    {
+        "id": 11,
+        "producto": "Pantalón Jogger",
+        "categoria": "Indumentaria",
+        "precio": 12000.0,
+        "cantidad": 4,
+        "total_venta": 48000.0
+    },
+    {
+        "id": 12,
+        "producto": "Mochila",
+        "categoria": "Accesorios",
+        "precio": 22000.0,
+        "cantidad": 1,
+        "total_venta": 22000.0
+    },
+    {
+        "id": 13,
+        "producto": "Televisor",
+        "categoria": "Hogar",
+        "precio": 1200000.0,
+        "cantidad": 13,
+        "total_venta": 15600000.0
+    },
+    {
+        "id": 14,
+        "producto": "Televisor",
+        "categoria": "Hogar",
+        "precio": 1200000.0,
+        "cantidad": 13,
+        "total_venta": 15600000.0
+    }
+]

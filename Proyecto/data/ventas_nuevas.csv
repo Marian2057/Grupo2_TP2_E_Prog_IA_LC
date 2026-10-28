@@ -1,0 +1,5 @@
+producto,categoria,precio,cantidad
+Zapatillas Urbanas,Indumentaria,32000,3
+Billetera,Accesorios,9000,6
+Vela Aromática,Hogar,4200,7
+Producto Inválido,Hogar,-100,2
